@@ -1,8 +1,21 @@
-# สัปดาห์ที ่ 1 - Tools & First Web Page
+# สัปดาห์ที่ 1 - Tools & First Web Page
 
-## ไฟล์ที ่สร้าง - **index.html** - HTML structure with semantic elements - **styles.css** - CSS styling with responsive design - **script.js** - JavaScript for interactivity - **README.md** - Project documentation
+## ไฟล์ที่
 
-## เรียนรู ้ - Tools setup (VS Code, Node.js, Git) - HTML5 structure - CSS3 styling and media queries - JavaScript DOM manipulation - Git workflow and commits
+สร้าง
+
+- **index.html** - HTML structure with semantic elements
+- **styles.css** - CSS styling with responsive design
+- **script.js** - JavaScript for interactivity
+- **README.md** - Project documentation
+
+## เรียนรู้
+
+- Tools setup (VS Code, Node.js, Git)
+- HTML5 structure
+- CSS3 styling and media queries
+- JavaScript DOM manipulation
+- Git workflow and commits
 
 ## Git Commits
 
@@ -16,4 +29,7 @@
 1. เปิด index.html in browser
 2. หรือเปิดด้วย Live Server in VS Code
 
-## Next Steps - Week 2: HTML5 Semantic & Forms - Week 3: CSS Flexbox Layouts
+## Next Steps
+
+- Week 2: HTML5 Semantic & Forms
+- Week 3: CSS Flexbox Layouts
